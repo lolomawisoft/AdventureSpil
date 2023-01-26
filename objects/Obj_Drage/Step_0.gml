@@ -2,10 +2,10 @@ halfViewWidth = camera_get_view_width(view_camera[0])/2;
 halfViewHeight = camera_get_view_height(view_camera[0])/2;
 camera_set_view_pos(view_camera[0], x - halfViewWidth, y - halfViewHeight)
 //resets move og dmove når hvilken som helst knap er trykket
-if vk_anykey
+if keyboard_check(vk_anykey)
 {
- move = 4
- dmove = 3
+	move = 4
+	dmove = 3
 }
 
 //for op ad gående bevægelse og skråt op ad
