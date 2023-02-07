@@ -1,3 +1,8 @@
+//player character, current sprite dragon isnt the player but just a place holder
+//player should be able to move in all directions and have a skill set consiting of jumps and dashes
+//the player should also have hp and attacks
+
+// makes the viewport follow the player character when moved outside the start boundaries
 halfViewWidth = camera_get_view_width(view_camera[0])/2;
 halfViewHeight = camera_get_view_height(view_camera[0])/2;
 camera_set_view_pos(view_camera[0], x - halfViewWidth, y - halfViewHeight)
