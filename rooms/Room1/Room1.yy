@@ -16,6 +16,7 @@
     {"name":"inst_203994AB","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3B9D530A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_684AE8C8","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1B6BB3AA","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -32,7 +33,8 @@
     {"resourceType":"GMRPathLayer","resourceVersion":"1.0","name":"Path_1","colour":4278190335,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"pathId":{"name":"Path1","path":"paths/Path1/Path1.yy",},"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6196DD74","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Drage","path":"objects/Obj_Drage/Obj_Drage.yy",},"properties":[],"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"x":544.0,"y":448.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B9D530A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3B9D530A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1088.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B6BB3AA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Enemy_Grass","path":"objects/Obj_Enemy_Grass/Obj_Enemy_Grass.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":320.0,"y":384.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":79,"SerialiseWidth":79,"TileCompressedData":[
 -7,0,4,40,28,28,25,-10,0,-3,-2147483648,-3,0,-52,-2147483648,-8,0,-2,48,1,32,-17,0,-51,-2147483648,-8,0,-2,48,1,32,-18,0,-50,-2147483648,-7,0,4,42,48,48,32,-10,0,4,-2147483648,0,0,-2147483648,-6,0,-48,-2147483648,-7,0,4,32,48,48,32,-10,0,1,-2147483648,-9,0,-48,-2147483648,-7,33,4,39,48,48,41,-10,33,-3,0,
