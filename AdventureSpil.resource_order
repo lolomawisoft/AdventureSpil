@@ -45,6 +45,7 @@
     {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Sprite25","order":11,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"Sprite23","order":9,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"spr_gem_of_citrine","order":1,"path":"sprites/spr_gem_of_citrine/spr_gem_of_citrine.yy",},
   ],

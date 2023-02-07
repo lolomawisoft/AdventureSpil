@@ -64,6 +64,7 @@
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":6,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},"order":0,},
     {"id":{"name":"Hero","path":"sprites/Hero/Hero.yy",},"order":0,},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},"order":9,},
     {"id":{"name":"spr_gem_of_citrine","path":"sprites/spr_gem_of_citrine/spr_gem_of_citrine.yy",},"order":1,},
