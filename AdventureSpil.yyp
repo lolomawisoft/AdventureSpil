@@ -31,6 +31,7 @@
     {"id":{"name":"Obj_editor_wall","path":"objects/Obj_editor_wall/Obj_editor_wall.yy",},"order":3,},
     {"id":{"name":"spr_player_model2","path":"sprites/spr_player_model2/spr_player_model2.yy",},"order":7,},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":6,},
+    {"id":{"name":"spr_common_enemy","path":"sprites/spr_common_enemy/spr_common_enemy.yy",},"order":13,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
     {"id":{"name":"Hero","path":"sprites/Hero/Hero.yy",},"order":0,},
