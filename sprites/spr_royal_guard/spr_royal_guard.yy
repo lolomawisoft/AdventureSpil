@@ -4,7 +4,7 @@
   "name": "spr_royal_guard",
   "bbox_bottom": 63,
   "bbox_left": 2,
-  "bbox_right": 47,
+  "bbox_right": 41,
   "bbox_top": 19,
   "bboxMode": 0,
   "collisionKind": 1,
