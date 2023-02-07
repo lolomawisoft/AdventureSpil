@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_potion_of_z",
-  "bbox_bottom": 54,
-  "bbox_left": 22,
-  "bbox_right": 39,
-  "bbox_top": 28,
+  "name": "spr_npc_priest",
+  "bbox_bottom": 60,
+  "bbox_left": 11,
+  "bbox_right": 60,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7be33f56-10ce-4a72-8372-f6f06c6e5d14",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3edc542c-7665-49e5-b8e9-4d5949a397e3",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0b3d72d3-5335-4516-b6be-7d20771a5d37","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1e0f1534-d642-4b1f-b695-7757eabef268","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_potion_of_z",
+    "name": "spr_npc_priest",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7be33f56-10ce-4a72-8372-f6f06c6e5d14","path":"sprites/spr_potion_of_z/spr_potion_of_z.yy",},},},"Disabled":false,"id":"8cbb0a3a-819d-41bd-8384-b6834138da96","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3edc542c-7665-49e5-b8e9-4d5949a397e3","path":"sprites/spr_npc_priest/spr_npc_priest.yy",},},},"Disabled":false,"id":"5c072c4b-d6f4-4bd1-b06f-21dc5bbfbe03","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
