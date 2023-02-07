@@ -38,6 +38,7 @@
     {"id":{"name":"spr_potion_of_y","path":"sprites/spr_potion_of_y/spr_potion_of_y.yy",},"order":9,},
     {"id":{"name":"spr_sword","path":"sprites/spr_sword/spr_sword.yy",},"order":12,},
     {"id":{"name":"spr_gem_of_sapphire","path":"sprites/spr_gem_of_sapphire/spr_gem_of_sapphire.yy",},"order":3,},
+    {"id":{"name":"test123","path":"sprites/test123/test123.yy",},"order":0,},
     {"id":{"name":"spr_nightmare_spawn","path":"sprites/spr_nightmare_spawn/spr_nightmare_spawn.yy",},"order":5,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":5,},
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},"order":5,},

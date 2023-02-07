@@ -21,6 +21,7 @@
     {"name":"spr_potion_of_y","order":9,"path":"sprites/spr_potion_of_y/spr_potion_of_y.yy",},
     {"name":"spr_sword","order":12,"path":"sprites/spr_sword/spr_sword.yy",},
     {"name":"spr_gem_of_sapphire","order":3,"path":"sprites/spr_gem_of_sapphire/spr_gem_of_sapphire.yy",},
+    {"name":"test123","order":10,"path":"sprites/test123/test123.yy",},
     {"name":"spr_nightmare_spawn","order":5,"path":"sprites/spr_nightmare_spawn/spr_nightmare_spawn.yy",},
     {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"Obj_Enemy","order":5,"path":"objects/Obj_Enemy/Obj_Enemy.yy",},
